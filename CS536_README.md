@@ -7,8 +7,8 @@ Git Profile: https://github.com/skrisht1
 
 Team member -2
 
-Name: Sathwik Krishtipati
-B Number: B00979769
+Name: Anirudh Nori
+B Number: B00978464
 Git profile: https://github.com/anirudhnori7
 
 
