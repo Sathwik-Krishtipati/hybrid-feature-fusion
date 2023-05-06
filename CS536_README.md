@@ -9,7 +9,7 @@ Team member -2
 
 Name: Sathwik Krishtipati
 B Number: B00979769
-Git profile: https://github.com/anori1
+Git profile: https://github.com/anirudhnori7
 
 
 Steps to run the code:
