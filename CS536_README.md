@@ -1,15 +1,11 @@
-Team member -1
+
 
 Name: Sathwik Krishtipati
 B Number: B00979769
 Git Profile: https://github.com/skrisht1
 
 
-Team member -2
 
-Name: Anirudh Nori
-B Number: B00978464
-Git profile: https://github.com/anirudhnori7
 
 
 Steps to run the code:
